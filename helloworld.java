@@ -4,9 +4,3 @@ public class helloworld {
         System.out.println("hellow world");
     }
 }
-
-public class cal{
-    public static void main(String [] args){
-        
-    }
-}
